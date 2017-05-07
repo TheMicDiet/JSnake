@@ -1,0 +1,2 @@
+# JSnake
+simple snake game
